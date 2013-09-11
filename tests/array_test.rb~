@@ -3,7 +3,7 @@ require "test/unit"
 class ArrayTest < Test::Unit::TestCase
 
   def test_true
-    assert true
+    assert false
   end
 
   def test_reject
